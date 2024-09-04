@@ -1,8 +1,9 @@
 ---
-project: "LABORATORIO 4: Uso de BiTalino para ECG"
+project: 
   type: website
   output-dir: docs
 ---
+# "LABORATORIO 4: Uso de BiTalino para ECG"
 
 ## Tabla de contenidos 
 1. [Introducción](#introducción)
